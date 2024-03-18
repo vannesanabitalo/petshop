@@ -1,0 +1,41 @@
+nav{
+    background-color: black;
+}
+nav a{
+    color: white;
+}
+.wallpaper{
+    background-image: url(wallpaper.jpg);
+    background-size: cover;
+    height: 500px;
+    color: white;
+}
+.vash{
+    display: flex;
+}
+.vash img{
+    height:200px ;
+}
+
+.form-section{
+    position: relative;
+    width: 100vw;
+}
+.form-section img{
+    width: 100%;
+}
+.form-container{
+    position: absolute;
+    left: 45%;
+    top: 45%;
+    background-color: reds;
+}
+h1{
+    color: orange;
+    text-align: center;
+}
+button{
+    background-color: orange;
+    color: black;
+    padding:left 50px 50px;
+}
